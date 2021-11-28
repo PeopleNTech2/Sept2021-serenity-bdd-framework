@@ -1,0 +1,39 @@
+Pattern
+
+[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+
+
+Mobile Automation
+mac:
+	xcode
+	android studio
+	appium
+	node.js + npm
+
+win:
+	android studio
+	appium
+	node.js + npm
+
+intelliJ
+maven
+
+%ANDROID_HOME%\tools
+%ANDROID_HOME%\tools\bin
+%ANDROID_HOME%\platform-tools
+
+https://github.com/PeopleNTechJavaSelenium/Mobile-AutomationJuly2019.git
+
+------------------------------------------------------------------------------------------------------
+
+Page Object Model = design pattern
+
+page factory  = find elements (without findElement() method)
+
+pom.xml = file that rules maven framework
+
+------------------------------------------------------------------------------------------------------
+
+listen well
+
+precise and concise
+
